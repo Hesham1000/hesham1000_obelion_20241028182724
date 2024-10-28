@@ -9,6 +9,7 @@
     },
     "dependencies": {
         "react": "latest",
+        "regular dependencies": "latest",
         "axios": "0.21.1",
         "eslint": "latest",
         "library1": "2.1.0",
@@ -17,6 +18,6 @@
     },
     "devDependencies": {
         "axios": "0.21.1",
-        "eslint": "latest"
+        "eslint": "7.32.0"
     }
 }
